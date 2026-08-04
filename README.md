@@ -1,4 +1,4 @@
-# ◈ Customer Segmentation — Clustering Lab
+# Projet DS : 3_Customer Segmentation — Clustering Lab
 
 > Application interactive de segmentation clients par clustering non-supervisé, avec réduction de dimensions et visualisations avancées.
 
